@@ -3,3 +3,7 @@ h1 {
     color:rgb(211, 10, 10);
     text-transform: uppercase;
 }
+
+body {
+    background-color: black;
+}
