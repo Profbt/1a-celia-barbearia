@@ -30,7 +30,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 nav a:hover {
-    color: deeppink;
+    color: rgb(0, 222, 204);
     text-decoration: underline;
 }
 
